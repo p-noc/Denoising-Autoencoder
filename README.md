@@ -6,4 +6,4 @@ L'obbiettivo finale è quello di valutare l'accuratezza della rete per la classi
 Il tipo di rumore utilizzato dagli autori dell'articolo è generato azzerando in maniera randomica un certo numero di pixel dell'immagine.
 È stato inoltre deciso di valutare le prestazioni delle reti anche con altri tipi di rumore.
 
-[a link](https://github.com/p-noc/denoising-autoencoder/blob/master/creaSet.m)
+[Documentazione progetto](https://github.com/p-noc/denoising-autoencoder/blob/master/Documentazione-progettoMLEAVisioneComputazionale_Cicala_Perrotta.pdf)
