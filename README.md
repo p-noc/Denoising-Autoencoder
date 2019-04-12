@@ -1,5 +1,5 @@
 # denoising-autoencoder
-Progetto universitario per i corsi di "Machine Learning e Applicazioni" e "Visione computazionale"
+Progetto universitario per i corsi di "Machine Learning e Applicazioni" e "Visione computazionale".
 Altri autori: [Paolo Perrotta](https://github.com/PaoloPerrotta)
 
 Partendo dallo studio dell'articolo "Extracting and composing robust features with denoising autoencoders" è stato utilizzato il linguaggio MATLAB per implementare le parti che vanno a comporre la creazione, la gestione e l'analisi dei risultati di una rete neurale multistrato feed-forward, al fine di replicare il lavoro descritto nel suddetto articolo.
